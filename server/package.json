@@ -1,0 +1,15 @@
+{
+  "name": "productos-crud-server",
+  "version": "1.0.0",
+  "description": "API REST para gestión de productos usando Node.js, Express y MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.5.2"
+  }
+}
